@@ -27,4 +27,39 @@
 
 ![4](https://github.com/user-attachments/assets/888298d9-d1fd-4437-aa10-ab348c18d886)
 
+<h2 id="publicacion" align="center"> Pasos para la publicación de la App en una Tienda (APKPure) 🏪 </h2>
+
+- ✅ Para desplegar y firmar una aplicación movil con Flutter, es vital seguir los pasos de su documentación, adjunto enlace:
+
+<div align="center">
+  <p><a href="https://docs.flutter.dev/deployment/android">Documentación para el Despliegue de Aplicaciones con Flutter</a></p>
+</div>
+
+- ✅ Lo siguiente es escoger la tienda en la cual alojar la aplicación para su posterior descarga. En este caso se hará uso de APKPure, y se accederá a la consola para desarrolladores, se selecciona "Nueva Aplicación" y se rellena el formulario:
+
+<div align="center">
+  <p><a href="https://developer.apkpure.com/console">Consola para Desarrolladores de APKPure</a></p>
+</div>
+
+![image](https://github.com/user-attachments/assets/9d3d5c30-c4ba-4918-b716-03beb2fdff82)
+
+![image](https://github.com/user-attachments/assets/e1782ca0-2078-4c5e-a6a8-3221b1219b3c)
+
+![image](https://github.com/user-attachments/assets/9e0aab0f-34b5-4b1a-8f23-5871c83191de)
+
+- ✅ Finalmente se espera la respuesta de APKPure, de modo que en la propia consola aparecerá el estado de la aplicación: "En revisión", "Rechazado" o "Publicado":
+
+![image](https://github.com/user-attachments/assets/77ea39c3-dfe3-4945-a17d-4d517adec8a2)
+
 <h2 align="center"> Descargar de la aplicación para Android ⬇️ </h2>
+
+<div align="center">
+  <p>Haz click en el siguiente ícono: </p>
+  <p><a href="https://apkpure.com/p/com.jjmm.apiconsumption">
+  
+  ![Enlace de Descarga](https://skillicons.dev/icons?i=androidstudio)
+  
+  </a></p>
+</div>
+
+![image](https://github.com/user-attachments/assets/4accbdbf-ac8d-40d4-a4f2-bb3c3af907df)
