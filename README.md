@@ -54,12 +54,10 @@
 <h2 align="center"> Descargar de la aplicación para Android ⬇️ </h2>
 
 <div align="center">
-  <p>Haz click en el siguiente ícono: </p>
-  <p><a href="https://apkpure.com/p/com.jjmm.apiconsumption">
-  
-  ![Enlace de Descarga](https://skillicons.dev/icons?i=androidstudio)
-  
-  </a></p>
+  <a href="https://apkpure.com/p/com.jjmm.apiconsumption">
+      <p> Haga aquí para descargarlo en APKPure: </p>
+      <img src="https://skillicons.dev/icons?i=androidstudio">
+  </a>  
 </div>
 
 ![image](https://github.com/user-attachments/assets/4accbdbf-ac8d-40d4-a4f2-bb3c3af907df)
